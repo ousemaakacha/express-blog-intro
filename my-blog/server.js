@@ -13,24 +13,24 @@ const posts = [
 
   {
     title: "CRACKER BARBABIETOLA",
-    image: "/images/cracker-barbabietola.jpeg",
+    image: "/images/cracker_barbabietola.jpeg",
     tags: ["salati"],
   },
   {
     title: "PANE FRITTO DOLCE",
-    image: "/images/pane-fritto-dolce.jpeg",
+    image: "/images/pane_fritto_dolce.jpeg",
     tags: ["dolci"],
   },
 
   {
     title: "PASTA BARBABIETOLA",
-    image: "/images/pasta-barbabietola.jpeg",
+    image: "/images/pasta_barbabietola.jpeg",
     tags: ["salati"],
   },
 
   {
     title: "TORTA PAESANA",
-    image: "/images/torta-paesana.jpeg",
+    image: "/images/torta_paesana.jpeg",
     tags: ["dolci"],
   },
 ];
