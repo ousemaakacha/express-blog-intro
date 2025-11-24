@@ -41,6 +41,10 @@ app.get("/", (req, res) => {
   res.send("My blog Server");
 });
 
+app.get("/bacheca", (req, res) => {
+  res.json(posts);
+});
+
 app.listen(PORT, () => {
   console.log(`Blog server starts at http://localhost:${PORT}`);
 });
